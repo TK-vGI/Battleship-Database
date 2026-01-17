@@ -1,0 +1,6 @@
++----------+-------+
+|ship      |result |
++----------+-------+
+|HMS Nelson|damaged|
+|USS Nevada|damaged|
++----------+-------+
