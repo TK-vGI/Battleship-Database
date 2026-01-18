@@ -1,0 +1,9 @@
++-------------------+--------+----------+
+|name               |launched|country   |
++-------------------+--------+----------+
+|HMS Warspite       |1913    |Gt.Britain|
+|HMS Queen Elizabeth|1913    |USA       |
+|Fusō               |1915    |Japan     |
+|Yamashiro          |1915    |Japan     |
+|Bismarck           |1939    |Germany   |
++-------------------+--------+----------+
